@@ -8,6 +8,7 @@
     для fahr = 0, 20, ..., 300 */
 /* (°F − 32) × 5/9 = °C*/
 
+// edit from github
 main()
 {
     int fahr;
